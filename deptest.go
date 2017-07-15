@@ -1,3 +1,5 @@
 package deptest
 
-type Foo int
+import "github.com/brendan-munro/coolint"
+
+type Foo coolint.CoolInt
