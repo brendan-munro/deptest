@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "q6es/GCwizh2GbLTKWWj8bB6Lc8=",
+			"path": "github.com/brendan-munro/coolint",
+			"revision": "88139f3362c24c01f6c7a9ffdc830ebcb7551ecd",
+			"revisionTime": "2017-07-15T19:19:21Z"
+		}
+	],
+	"rootPath": "github.com/brendan-munro/deptest"
+}
